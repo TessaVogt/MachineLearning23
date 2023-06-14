@@ -27,3 +27,5 @@ The documents inside the folder must be at the same file path as the Jupyter not
     - LossFunction
 - Exercise 7:
     - Convolution
+- Exercise 8:
+    - WideResidualNetworks
